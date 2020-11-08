@@ -1,0 +1,6 @@
+# Project exclude paths
+/foode-dev-api/target/
+/foode-dev-common/target/
+/foode-dev-mapper/target/
+/foode-dev-pojo/target/
+/foode-dev-service/target/
